@@ -7,7 +7,7 @@ WeRoBot-SAE-demo
 git clone git://github.com/whtsky/WeRoBot-SAE-demo.git
 cd WeRoBot-SAE-demo
 virtualenv --no-site-packages .
-source bin/active
+source bin/activate
 pip install sae-python-dev
 saecloud install werobot
 ```
